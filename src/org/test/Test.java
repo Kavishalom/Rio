@@ -7,8 +7,15 @@ public class Test {
 		System.out.println("passWord");
 	
 	}
+	private static void userName() {
+
+		System.out.println("username");
+	
+	}
 public static void main(String[] args) {
+	userName();
 	passWord();
 	
 }
 }
+
